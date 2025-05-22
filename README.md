@@ -1,16 +1,4 @@
 # kawaiiramen
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Folder verification (OTP Verification)--> C:\xampp\htdocs\verification
+- Folder MWSP (database manager)--> C:\xampp\htdocs\MWSP
+- Penjelasan aplikasi dan tampilannya dapat diakses di Bab IV Pertemuan 6: Tugas, halaman 198, melalui link: https://utyac-my.sharepoint.com/:b:/g/personal/regita_5220411359_student_uty_ac_id/EXI-Kzb1GLVIhmFDKxhuuF8BiNoDdXLa00B_PSvB0CqheQ?e=dJ8K0d
